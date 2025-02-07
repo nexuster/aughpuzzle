@@ -13,7 +13,7 @@ const config = {
         preload: preload,
         create: create,
         update: update
-    }
+    },
     parent: 'viewport'
 };
 

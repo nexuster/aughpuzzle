@@ -14,6 +14,7 @@ const config = {
         create: create,
         update: update
     }
+    parent: 'viewport'
 };
 
 const game = new Phaser.Game(config);

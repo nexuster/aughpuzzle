@@ -1,3 +1,7 @@
+body {
+    color: aliceblue;
+}
+
 div, blockquote, ol, ul {
     display: block;
     margin: 30px auto;
@@ -7,6 +11,7 @@ div, blockquote, ol, ul {
     box-shadow: 0px 10px #373745;
   
     background-color: #1e1e2a;
+    color: aliceblue;
   
     width: 80%;
     max-width: 800px;

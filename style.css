@@ -1,0 +1,23 @@
+div, blockquote, ol, ul {
+    display: block;
+    margin: 30px auto;
+  
+    padding: 12px;
+    border-radius: 6px;
+    box-shadow: 0px 10px #373745;
+  
+    background-color: #1e1e2a;
+  
+    width: 80%;
+    max-width: 800px;
+  
+    align-items: center;
+}
+
+ol, ul {
+    background-color: #373745;
+}
+
+.pretty {
+    background-color: #5454ca;
+}

@@ -21,9 +21,7 @@ const game = new Phaser.Game(config);
 
 function preload() {
     this.load.image('sky', 'https://labs.phaser.io/assets/skies/space3.png');
-    this.load.image('logo', 'https://labs.phaser.io/assets/sprites/phaser3-logo.png');
-    this.load.image('red', 'https://labs.phaser.io/assets/particles/red.png');
-}
+    this.load.image('player', 'images/player/fan')
 
 function create() {
     this.add.image(400, 300, 'sky');
